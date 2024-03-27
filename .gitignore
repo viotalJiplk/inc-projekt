@@ -1,0 +1,6 @@
+ise/
+*.cf
+*.zip
+uart_rx.vhd
+*.ghw
+synth.vhd
